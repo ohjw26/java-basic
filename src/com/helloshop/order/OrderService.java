@@ -1,7 +1,7 @@
 package com.helloshop.order;
 
 import com.helloshop.product.Product;
-import pack.b.User;
+import com.helloshop.user.User;
 
 public class OrderService {
 

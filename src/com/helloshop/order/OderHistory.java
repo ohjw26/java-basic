@@ -1,4 +1,4 @@
 package com.helloshop.order;
 
-public class OderHistory {
+public class OderHistory  {
 }
