@@ -2,7 +2,7 @@ package access;
 
 public class Speaker {
 
-    int volume;
+    private int volume; //private: 해당 클래스 내부에서만 호출 가능
 
     Speaker(int volume) {
         this.volume = volume;
