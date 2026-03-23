@@ -1,7 +1,5 @@
 package poly.ex5;
 
-import poly.ex4.AbstractAnimal;
-
 public class InterfaceMain {
 
     public static void main(String[] args) {
